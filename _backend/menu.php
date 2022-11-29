@@ -25,13 +25,13 @@
                     Absensi
                 </a>
             </li>
-            <!-- <li class="nav-item">
-                <a class="nav-link" href="#">
+            <li class="nav-item">
+                <a class="nav-link" href="reports.php">
                     <span data-feather="bar-chart-2" class="align-text-bottom"></span>
                     Reports
                 </a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link" href="#">
                     <span data-feather="layers" class="align-text-bottom"></span>
                     Integrations
